@@ -1,48 +1,129 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Farely%20Uda%20Pratama&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Welcome%20to%20my%20GitHub%20profile&descAlignY=58&descSize=18" alt="Header" />
-</div>
+ <!-- README.md -->
 
-<div align="center">
-  <a href="https://github.com/farelyudapratama">
-    <img src="https://komarev.com/ghpvc/?username=farelyudapratama&style=flat-square&color=2563eb" alt="Profile views" />
-  </a>
-</div>
-
-## 👋 Halo, saya Farely!
-
-Selamat datang di profil GitHub saya. Saya senang belajar, bereksperimen, dan membangun berbagai hal dengan teknologi. Repository ini menjadi tempat untuk menyimpan project, catatan, serta perjalanan saya dalam dunia programming.
-
-### 🚀 Saat ini saya sedang...
-
-- 🌱 Mempelajari dan mengembangkan kemampuan di bidang software development
-- 🛠️ Membangun project yang bermanfaat dan menyelesaikan masalah nyata
-- 📚 Terus belajar melalui eksplorasi, dokumentasi, dan open source
-
-### 🧰 Teknologi yang sedang saya eksplorasi
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C0442E,50:D96B43,100:E0A33A&height=220&section=header&text=Farel%20Yuda%20Pratama&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Building%20Apps%20%7C%20Exploring%20AI%20%7C%20Solving%20Problems&descAlignY=56&descSize=15" width="100%" alt="Farel Yuda Pratama" />
 </p>
 
-### 📊 GitHub Stats
+<h3 align="center">
+  Android Developer · Web Developer · AI Enthusiast
+</h3>
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=farelyudapratama&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farelyudapratama&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</div>
+<p align="center">
+  I build applications that combine thoughtful UI, reliable backend systems, and practical AI integration.
+</p>
 
-### 🤝 Mari terhubung
+<p align="center">
+  <a href="https://farel.yudev.my.id/">
+    <img src="https://img.shields.io/badge/Portfolio-C0442E?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/farel-yuda-pratama">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:farelyudapratama51@gmail.com">
+    <img src="https://img.shields.io/badge/Email-C0442E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-Kalau kamu ingin berdiskusi, berkolaborasi, atau sekadar menyapa, jangan ragu untuk menghubungi saya melalui GitHub.
+---
 
-<div align="center">
-  <strong>Thanks for visiting! ✨</strong>
-</div>
+## About Me
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer" alt="Footer" />
-</div>
+```kotlin
+val farel = Developer(
+    primaryStack = listOf("Kotlin", "Android", "Jetpack Compose"),
+    exploring = listOf("Web Development", "Backend", "AI Integration"),
+    currentlyBuilding = listOf("SnapCal", "Lumimi"),
+    openToOpportunities = true
+)
+```
+
+-  Developing Android applications with Kotlin and Jetpack Compose.
+-  Building web applications and backend services.
+-  Exploring ways to integrate AI into useful, real-world applications.
+-  Always learning, experimenting, and turning ideas into working products.
+
+## Tech Stack
+
+**Mobile Development**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,flutter,dart,firebase" alt="Mobile development skills" />
+</p>
+
+**Web & Backend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,vue,express,php,python,mongodb,mysql" alt="Web and backend skills" />
+</p>
+
+**Tools & Others**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,rust" alt="Tools and other technologies" />
+</p>
+
+---
+
+## Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>SnapCal</h3>
+      <a href="https://github.com/farelyudapratama/SnapCal-Firebase-Gemini">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=farelyudapratama&repo=SnapCal-Firebase-Gemini&theme=transparent&hide_border=true&title_color=C0442E" alt="SnapCal repository" width="100%" />
+      </a>
+      <p>An application project combining Firebase and Gemini AI.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Lumimi</h3>
+      <a href="https://github.com/farelyudapratama/Lumimi">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=farelyudapratama&repo=Lumimi&theme=transparent&hide_border=true&title_color=C0442E" alt="Lumimi repository" width="100%" />
+      </a>
+      <p>A personal project focused on building useful software experiences.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Aturdana</h3>
+      <a href="https://github.com/farelyudapratama/aturdana">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=farelyudapratama&repo=aturdana&theme=transparent&hide_border=true&title_color=C0442E" alt="Aturdana repository" width="100%" />
+      </a>
+      <p>A project exploring application development for financial management.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎌 ListAnime</h3>
+      <a href="https://github.com/farelyudapratama/ListAnime">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=farelyudapratama&repo=ListAnime&theme=transparent&hide_border=true&title_color=C0442E" alt="ListAnime repository" width="100%" />
+      </a>
+      <p>An anime-related project built around browsing and organizing content.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=farelyudapratama&show_icons=true&theme=transparent&hide_border=true&title_color=C0442E&icon_color=E0A33A&rank_icon=github" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farelyudapratama&layout=compact&theme=transparent&hide_border=true&title_color=C0442E&langs_count=6" alt="Most used programming languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=farelyudapratama&theme=transparent&hide_border=true&ring=C0442E&fire=E0A33A&currStreakLabel=C0442E" alt="GitHub contribution streak" />
+</p>
+
+---
+
+<p align="center">
+  <i>Building, learning, and improving — one project at a time.</i>
+</p>
+
+<p align="center">
+  <a href="https://farel.yudev.my.id/">Visit my portfolio →</a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C0442E,50:D96B43,100:E0A33A&height=100&section=footer" width="100%" alt="Footer" />
+</p>
